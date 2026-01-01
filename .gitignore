@@ -39,3 +39,22 @@
 
 # debug information files
 *.dwo
+
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# ===== MySQL / Database =====
+*.db
+*.sqlite
+dump.sql
+backup.sql
+
+# ===== Competitive Programming =====
+input.txt
+output.txt
+a.out
